@@ -40,3 +40,9 @@ For mongo logs: `docker-compose logs --tail 100 -f mongodb`
 Accessing to api shell
 
 `docker-compose exec api sh`
+
+### Usage
+
+You can use the postman collection for see available endpoints.
+
+[POSTMAN COLLECTION](https://www.getpostman.com/collections/e4c0052f6bb07683537f)
